@@ -6,7 +6,7 @@
   },
   "screens": {
     "clock": "screens/clock",
-    "agenda": "screens/agenda"
+    "agenda": "screens/agenda",
     "energenie": "screens/energenie",
     "finlandarrivals": "screens/finlandarrivals",
     "football": "screens/football",
