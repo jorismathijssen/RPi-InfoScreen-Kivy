@@ -5,8 +5,21 @@
     "apiport": 8089
   },
   "screens": {
-    "weather": "screens/weather",
     "clock": "screens/clock",
+    "agenda": "screens/agenda"
+    "energenie": "screens/energenie",
+    "finlandarrivals": "screens/finlandarrivals",
+    "football": "screens/football",
+    "londonbus": "screens/londonbus",
+    "mythtv": "screens/mythtv",
+    "photoalbum": "screens/photoalbum",
+    "pong": "screens/pong",
+    "squeezeplayer": "screens/squeezeplayer",
+    "template": "screens/template",
+    "trains": "screens/trains",
+    "tube": "screens/tube",
+    "xmas": "screens/xmas",
+    "weather": "screens/weather",
     "wordclock": "screens/wordclock"
   }
 }
